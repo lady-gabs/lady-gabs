@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @lady-gabs
 - 👀 I’m interested in cyber secury and web programming
 - 🌱 I’m currently studying Computer Science in Unesp
-- 📫 How to reach me: Instagram @g_gabriellaoliveira
