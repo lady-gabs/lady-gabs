@@ -3,4 +3,5 @@
 - 🌱 I’m currently studying Computer Science in Unesp;
 - :computer: Dominant language: **C**.<br/><br/>
 
-<img src="https://www.freepik.com/free-photo/computer-program-code_1154343.htm#query=web%20programming&position=20&from_view=search" width=100%>
+<img src="https://github.com/lady-gabs/lady-gabs/blob/dcabadae3fa5f8d71dcca00b884892d649f16fcb/computer-program-code.jpg" width=100%>
+
