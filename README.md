@@ -3,6 +3,7 @@
 - 👀 I’m interested in **cyber secury** and **web programming**;
 - 🌱 I’m currently studying Computer Science at Unesp;
 - :computer: Web developer at Yeb Market Intelligence<br/><br/>
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=lady-gabs&show_icons=true&theme=midnight-purple)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lady-gabs&theme=midnight-purple)
