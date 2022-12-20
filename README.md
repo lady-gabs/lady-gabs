@@ -3,9 +3,9 @@
 - 👀 I’m interested in **cyber secury** and **web programming**;
 - 🌱 I’m currently studying Computer Science at Unesp;
 - :computer: Web developer at Yeb Market Intelligence<br/><br/>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=lady-gabs&show_icons=true&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=lady-gabs&show_icons=true&theme=midnight-purple)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lady-gabs&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lady-gabs&theme=midnight-purple)
 
 <div>
   <a href="https://www.linkedin.com/in/gabriella-alves-de-oliveira-9267271b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
