@@ -1,6 +1,6 @@
 # Profile
 - 👋 Hi, I’m Gabriella;
-- 👀 I’m interested in **cyber secury** and **web programming**;
+- 👀 I’m interested in **AI**,**cyber secury** and **web programming**;
 - 🌱 I’m currently studying Computer Science at Unesp;
 - :computer: Web developer<br/><br/>
 
