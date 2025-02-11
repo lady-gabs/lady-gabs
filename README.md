@@ -1,8 +1,20 @@
-# Profile
+# 🚀 Welcome to my profile!
 - 👋 Hi, I’m Gabriella;
 - 👀 I’m interested in **cyber security** and **web programming**;
 - 🌱 I’m currently studying Computer Science at Unesp;
 - :computer: Software Development Intern at **Encora Brazil Division**<br/><br/>
+
+---
+
+# ⚛️ Skills
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,angular,tailwind,sass,nodejs,vite,express,figma,linux,postman,bootstrap,mongodb,postgres,aws,c,py,java,php,wordpress,vim" alt="Skills"/>
+  </a>
+</div>
+
+---
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lady-gabs&theme=midnight-purple)
 
