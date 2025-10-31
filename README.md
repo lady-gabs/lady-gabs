@@ -2,7 +2,7 @@
 ### Hello World, I’m Gabriella (aka Lady) <img src="https://media.tenor.com/mJT8ouhb5aYAAAAi/cinnamoroll-sanrio.gif" width="50">
  👀 I'm interested in **Software Development** and **Cybersecurity**;<br/>
  💻 I’m currently studying a **Bachelor's degree in Computer Science** at Unesp;<br/>
- 💼 Software Developer (Intern) at **Encora Brazil Division**<br/>
+ 💼 Systems Development Assistant at **Encora Brazil Division**<br/>
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-alves-de-oliveira-9267271b8/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:oliveira.gabriellaalves@gmail.com)
