@@ -1,7 +1,7 @@
 # <img src="https://www.gifcen.com/wp-content/uploads/2023/05/kuromi-gif-4.gif" width="50">  Welcome to my profile, <𝒄𝒐𝒅𝒆𝒓𝒔/>
 ### Hello World, I’m Gabriella (aka Lady) <img src="https://media.tenor.com/mJT8ouhb5aYAAAAi/cinnamoroll-sanrio.gif" width="50">
  👀 I'm interested in **Software Development** and **Cybersecurity**;<br/>
- 💻 I’m currently studying a **Bachelor's degree in Computer Science** at Unesp;<br/>
+ 💻 I’m **Bachelor's in Computer Science** by Unesp Rio Claro;<br/>
  💼 Systems Development Assistant at **Encora Brazil Division**<br/>
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-alves-de-oliveira-9267271b8/)
